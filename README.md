@@ -126,6 +126,8 @@ It's possible to use it as its default by just adding `dynamicBackgroundEnabled=
 </shape>
 ~~~
 
+## Inspirations
+XEditText https://github.com/woxingxiao/XEditText
 
 ## Contribute
 Any issues and suggestion comments welcomed.
