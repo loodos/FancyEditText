@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <declare-styleable name="FancyEditText">
-        <attr name="separator" format="string" />
         <attr name="clearEnabled" format="boolean" />
         <attr name="emojiEnabled" format="boolean" />
         <attr name="pwdIconEnabled" format="boolean" />
